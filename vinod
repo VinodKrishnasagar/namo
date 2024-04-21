@@ -1,0 +1,17 @@
+creation of git in devops 
+yum install git
+git --version
+mkdir file
+cd file
+git init
+vi file
+git add created vi files
+git status -s
+git commit -m " "
+git config user.name " " 
+git config user.email " "
+git log 
+git show id
+git remote add alias url
+git push alias
+
