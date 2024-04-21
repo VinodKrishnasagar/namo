@@ -15,3 +15,6 @@ git show id
 git remote add alias url
 git push alias
 
+for connect git to github we should create github acount
+create rapository
+have totake token iin git hub
